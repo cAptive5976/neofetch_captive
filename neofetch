@@ -10048,7 +10048,7 @@ EOF
         ;;
 
         "Orchid"*)
-            set_colors 15 63 25
+            set_colors 255 127 127
             read -rd '' ascii_data <<'EOF'
 ${c2}                  .==.                  
                 .-${c3}#${c1}@${c1}@${c3}#${c2}-.                
