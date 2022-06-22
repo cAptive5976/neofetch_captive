@@ -10073,7 +10073,7 @@ ${c2}                  .==.
 EOF
         ;;
 	
-	"Orchid Bedrock"*)
+	"Orchid_Bedrock"*)
             set_colors 7 8 8
             read -rd '' ascii_data <<'EOF'
 ${c2}                  .==.                  
